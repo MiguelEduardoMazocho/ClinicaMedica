@@ -65,7 +65,7 @@ Passo a passo
    git clone (https://github.com/MiguelEduardoMazocho/ClinicaMedica.git)
    
 3. Acesse a pasta do projeto:
-   cd nome-do-projeto
+   cd ClinicaMedica
    
 5. Abra o arquivo `index.html` no navegador:
     Clique duas vezes no arquivo
